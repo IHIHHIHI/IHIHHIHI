@@ -5,7 +5,7 @@
 
 ![IHIHHIHI's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=IHHI)
 
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/IHHI.svg)]
+![Codeforces](https://badges.joonhyung.xyz/codeforces/IHHI.svg)
 <!--
 **IHIHHIHI/IHIHHIHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
