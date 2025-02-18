@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Django, Reinforcement learning
-- 📫 How to reach me: matia2.yi@gmail.com
+- 📫 How to reach me: yiminjune@snu.ac.kr
 
 ![IHIHHIHI's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=IHHI)
 
