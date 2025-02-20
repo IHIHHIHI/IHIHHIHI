@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- Undergraduate student at Seoul National University
 - 📫 How to reach me: yiminjune@snu.ac.kr
 
 ![IHIHHIHI's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=IHHI)
